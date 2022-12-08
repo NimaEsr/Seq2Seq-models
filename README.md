@@ -1,12 +1,10 @@
 # Natural-Language-Processing
 
 
-We collect here some practical projects on on various areas of NLP:
+We collect here different models for seq2seq translation:
 
-1- Twitter Sentiment Analysis
+1- Machine Translation (Seq2Seq LSTM)
 
-2- Autocorrection System
+2- Machine Translation (Attention mechanism)
 
-3- Machine Translation (Seq2Seq LSTM)
-
-4- Machine Translation (Attention mechanism)
+3- Seq2Seq with Transformers
